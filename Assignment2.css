@@ -1,0 +1,188 @@
+#header  {
+    background-color: #fff;
+    
+    box-shadow: 0 1px 1px #ccc;
+    
+}
+
+
+ #div_header { 
+    
+    padding: 16px 78px;
+   
+ } 
+  
+
+body {
+    background-color:#f2f6ff ;
+}
+
+.edyoda_logo {
+    
+    font-size: 32px ;
+    color:#0084ff; 
+    font-weight: 900;
+    font-family: 'Open Sans', sans-serif;
+    width: 130px;
+    
+     
+}
+
+ #styling {
+    
+    font-family: 'Raleway', sans-serif;
+    font-style: italic;
+    margin:0;
+    font-weight: bold;
+    
+    
+} 
+ ul li {
+    display:inline-block;
+    
+} 
+
+#para_id {
+    color:#000;
+    margin:auto;
+    font-family: 'Open Sans', sans-serif;
+    
+    
+}
+
+#para_id img {
+    font-size:14px;
+    padding-top: 0px;
+    padding-left: 8px;
+    height:10px;
+    width:15px;
+
+}
+
+
+
+.main_style {
+    width:85%;
+    margin:auto;
+
+    
+}
+
+
+.style_1 {
+   
+    width:28%;
+    display:inline-block;
+    margin:10px;
+    padding:20px;
+   
+    
+    
+}
+.img_style {
+    height:100%;
+    width:100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.styling_div {
+    background-color: #fff;
+    padding:10px 24px;
+    
+}
+
+.para_style {
+    font-family: 'Raleway', sans-serif;
+    size:14px;
+   font-weight:600;
+    line-height: 1.43;
+    color:rgba(0,0,0,.6);
+    margin:4px 0px;
+    padding-top: 4px;
+   
+}
+
+.title_style {
+    font-weight: 600px;
+    font-family: 'Raleway', sans-serif;
+    size:18px;
+    text-align:left;
+    margin:0px;
+   
+}
+
+
+.style_2 {
+    color:#0096ff;
+    font-size:14px;
+    font-style:italic;
+    font-weight: 500;
+    
+   
+    
+    
+}
+.style_3 {
+    color:rgba(0,0,0,0.7);
+    font-size:14px;
+    font-weight:300;
+   
+}
+
+#div_style {
+   width:85%;
+    margin: auto;
+}
+.btn_style {
+    padding:6px 14px;
+    width:auto;
+    color:#0084ff;
+    border-radius: 15px;
+    border:1px solid #0084ff;
+    margin:5px;
+    cursor:pointer;
+}
+
+.btn_style:focus {
+    color:#fff;
+    background-color: #0084ff;
+}
+
+#div_1 {
+    margin-bottom: 20px;
+    size:16px;
+    padding-top: 16px;
+}
+
+.filter_img img {
+    
+    height:15px;
+    width: 20px;
+    
+}
+.filter_img  #post_2 
+{  
+    display:inline-block;
+}
+
+#post_1 {
+    color:#000;
+    font-weight: 600;
+    margin:0;
+    font-family: 'Raleway', sans-serif;
+}
+
+#post_2 {
+     size: 14px;
+    font-weight: 600;
+    margin-left:8px;
+    font-family: 'Raleway', sans-serif;
+}
+
+#footer_style {
+    background-color: #172146;
+    padding:80px 16%;
+    width:68%;
+    
+}
